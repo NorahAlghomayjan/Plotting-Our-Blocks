@@ -24,7 +24,6 @@
     background-color: red;
     float:right;
     display: inline-block;
-    align-content: center;
     margin: 10px 10px 10px 5px;
 }
 .sub-content {
@@ -32,7 +31,7 @@
     width: 210px;
     background-color: yellow;
     float: left;
-    display: inline-flex;
+    display: inline;
     margin: 10px 8px 10px 8px;
 }
 #advertisement {
@@ -40,7 +39,7 @@
     width: 660px;
     background-color: purple;
     float: left;
-    display: inline-flex;
+    display: inline;
     margin: 10px 10px 10px 10px;
 }
 
